@@ -13,7 +13,6 @@ public class Message {
 	private String author;
 	
 	public Message() {
-		
 	}
 	
 	public Message(long id, String message, String author) {
